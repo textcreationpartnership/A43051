@@ -1,0 +1,329 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lying prophet discovered and reproved in an answer to several particulars in a book called The Quakers downfal, said to be written by Lawrence Claxton ... : with several of his damnable doctrines ... : also twelve particulars which he and his companion Lodowick Muggleton uttered ... / given forth ... by a Friend of truth, John Harwood.</title>
+            <author>Harwood, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43051</idno>
+            <idno type="STC">Wing H1103A</idno>
+            <idno type="STC">ESTC R40951</idno>
+            <idno type="EEBO-CITATION">19537977</idno>
+            <idno type="OCLC">ocm 19537977</idno>
+            <idno type="VID">109061</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43051)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109061)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1689:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lying prophet discovered and reproved in an answer to several particulars in a book called The Quakers downfal, said to be written by Lawrence Claxton ... : with several of his damnable doctrines ... : also twelve particulars which he and his companion Lodowick Muggleton uttered ... / given forth ... by a Friend of truth, John Harwood.</title>
+                  <author>Harwood, John.</author>
+                  <author>Muggleton, Lodowick, 1609-1698.</author>
+               </titleStmt>
+               <extent>[6], 17 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Claxton, Laurence, 1615-1667. --  Quakers downfal.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109061:1" rendition="simple:additions"/>
+            <p>The Lying Prophet <hi>Diſcovered and Reproved;</hi>
+            </p>
+            <p>In an Anſwer to ſeveral particulars in a book called <hi>The Quakers Downfal,</hi> ſaid to be written by <hi>Law<g ref="char:EOLhyphen"/>rence Claxton,</hi> who blaſphemouſly ſtiles himſelf the a<g ref="char:EOLhyphen"/>lone true and faithful Meſſenger of Chriſt Jeſus; but his ſpirit being tried by the fruits it hath brought forth, he is found to be a meſſenger of Satan, and an enemy to Chriſt and his people, who hath confeſſed he hath nought of God in him.</p>
+            <p>With ſeveral of his damnable doctrines (ſeldom the like ever read or heard of) which he hath publiſhed in his Book, returned back for him to prove by plain Scri<g ref="char:EOLhyphen"/>pture or to confeſſe his errour and blaſphemy.</p>
+            <p>Alſo Twelve Particulars which he and his companion <hi>Lodowick Muggleton</hi> uttered at <hi>Richard Whitpans</hi> houſe in <hi>Eaſtcheap,</hi> in a diſcourſe with me and ſome others he calls Quakers.</p>
+            <p>Given forth for the the clearing the Truth and the Witneſ<g ref="char:EOLhyphen"/>ſes of it from his lying aſperſions, and the manifeſting deceit and deceivers, that ſimple hearted ignorant people through their policy may not be deceived nor deluded, By a Friend to Truth, <hi>John Harwood.</hi>
+            </p>
+            <q>The Falſe Prophet is made manifeſt by his fruits, according to the Doctrine of Chriſt, <hi>Mat.</hi> 7.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons</hi> at the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Alderſgate,,</hi> 1659.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:109061:2"/>
+            <pb facs="tcp:109061:2" rendition="simple:additions"/>
+            <head>To the honeſt underſtanding <hi>Reader,</hi> who readeth without Prejudice, or Malice,</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>A Book coming to my hands, tituled the <hi>Quakers downfall,</hi> ſaid to be written by <hi>Laurence Claxton,</hi> (having his name at it) who blaſphemouſly ſtyles himſelfe, the alone, true and faithfull meſſenger of Chriſt Jeſus, the Lord of Glory; and bath the laſt Revelation and Commiſſion that ever ſhall be, as he ſaith, but his doctrine and Spirit, being truly weighed and tried in the juſt and equall ballance, by the Eternall Spirit of Light and Life; (manifeſt in the Royall ſeed of God, called Quakers) he is found to be lying Prophet, a Meſsenger of Satan, an enemy to truth 2 and the witneſses of it, at his fruits will make it plainly appeare; who goes about through his ſubtilty to pervert Truth and Innocency, and hath is a high manner blaſphemed againſt God and his people: ſo that in pure love to the Eternal Truth, for the clearing of it from lying Aſperſions caſt upon it, and the faithfull witneſses of it, by this unreaſonable man; I am moved to write ſome<g ref="char:EOLhyphen"/>thing in Anſwer to ſeverall particulars in his book; that his deceitfull lying ſpirit in ſome meaſure may be made manifeſt, that the ſimple hearted, ignorant people, may not be deluded through his ſubtilty, or by them who are of the ſame minde, which he calls the last Commiſſioners the third Writers of the Scriptures, in page marked for the twelfth in his book; And in the fif<g ref="char:EOLhyphen"/>teenth page he blaſphemouſly ſayes, they are the last Commiſ<g ref="char:EOLhyphen"/>ſioners that ever ſhall appeare in this unbelieving world: (that is to ſay, <hi>John Reeve,</hi> and <hi>Lodowick Muggleton;</hi> ſo would limit the holy One, the unlimited God: (which he knowes
+<pb facs="tcp:109061:3"/>not as his fruits of darkneſſe makes appear) who gives gifts and Commiſſion unto many of his dear ſervants and children, (in this the day of his glorious and bright appearance, in and amongst the ſonnes and daughters of men) who are his true and faithful Meſſengers, who have manifested the truth of their meſsage (the Lords gift) thorow many tryals and cruel ſufferings, whom he ſends forth into many Nations and Iſlands, freely to preach glad tidings, the Goſpel of peace, the power of God unto ſalvation; which is a mysterie hid from that ſpirit and power of darkneſſe in <hi>L. C.</hi> and the other he calls the laſt Commiſſioners, who ſaid he had nought of God in him, and alſo he denies the light of Christ within people; (Gods pure witneſse) which the Apoſtles bore teſti<g ref="char:EOLhyphen"/>mony unto, and <hi>John</hi> the Baptist; as all the faithful meſſengers of God doth, (which in ſcorne he calls Quakers) which true Light, (with which Christ enlighteneth every man) is the onely way of Life, Peace and everlasting ſalvation, which he and all ſuch high Ranting ſpirits are ſhut out of, and into the true knowledge of it cannot enter, with all their Serpents policy; which <hi>L. C.</hi> would cover with the naiue of divine knowledge: but with the eternal light, (which he deſpiſes) he is diſcerned, his Covers are too narrow to hide him from the pure eye, which the eternal God by his power hath open<g ref="char:EOLhyphen"/>ed in his innocent babes and children, he calls in deriſion quaking Ranters; but by them he is ſeen and comprehended, and by the Life of God, who is a Spirit of Glory, Light, Life, Power and Infinite wiſdom, is judged to be an inſtrument of Satan, an enemy of God, (the Spirit of all fleſh) and an unreaſonable man, according to his own confeſſion, who ſaith there is no pure reaſon in man nor in God, which is high blaſphemy; For pure wiſdome and pure reaſon is one in nature and ſubſtance, and neither God, the infinite being of Wiſ<g ref="char:EOLhyphen"/>dome, Glory, and Life is without it; nor man in the Image of God, unto whom, the Light Chriſt is made Wiſdom, Righteouſneſſe, San<g ref="char:EOLhyphen"/>ctification and Redemption; but the understanding Reader may ea<g ref="char:EOLhyphen"/>ſily perceive, by what ſpirit this man is acted, who would have all men to be like him, whithout pure reaſon, and alſo the Living God, the Eternal Spirit of Glory, (which he denies to be a Spirit) he would have to be without Reaſon (and ſo have him unreaſonable) who is the Eternal Fountain of Wiſdome, Knowledge, and pure Reaſon; for from his pure preſence, all the pure streames of divine Wiſdom, Know<g ref="char:EOLhyphen"/>ledge,
+<pb facs="tcp:109061:3" rendition="simple:additions"/>and Reaſon hath ever flowed, and doth ever flow; which clear<g ref="char:EOLhyphen"/>ly evidenceth, that this man is poſseſſed with, and acted by the ſame lying ſpirit and power of darkneſſe which hath acted all the falſe Pro<g ref="char:EOLhyphen"/>phets, and deceivers, in all ages as in this age, (ſo not to be believed, but denied) whoſe mindes hath been and are blinded, and hearts hardened againſt the truth of God, acting to the utmoſt of their ſtrength againſt it; but with it, <hi>L. C.</hi> and his Companions, and all the deceivers in all Nations, under what Name or Title ſoever are comprehended, condemned, and ſhut out of the knowledge of the myste<g ref="char:EOLhyphen"/>ry of Life, out of the light and knowledge of God, out of his kingdome, in the pit of groſſe darkneſse, and there are to remain untill the Judge<g ref="char:EOLhyphen"/>ment of the great day, and then ſhall receive the reward of their do<g ref="char:EOLhyphen"/>ings; Oh how he rages againſt us in his book, and ſcoffes and reviles us becauſe we will not deny the Light Christ Jeſus in us, as he doth, who ſaith he is in no creature, but only in heaven above the Stars as a man or perſon; what curſed doctrine and blaſphemy is this which this wicked man hath publiſhed, who would limit and confine the Lord of Glory, the unlimited God unto a certain place, (and exclude him from his people) which the Heaven of Heavens cannot contain, who fills Heaven and Earth with his Glory; yet this unreaſonable man pretends to own Scripture, though he publiſh ſuch things as theſe, which are quite con<g ref="char:EOLhyphen"/>trary to it; for the Saints in Light that gave forth the Scriptures, denied not (as he doth) but witneſſed as we do, Chrict Jeſus in them the hope of glory, as in the firſt Chapter of the <hi>Coloſſians,</hi> verſe 27, as alſo in the ſecond of the <hi>Corinthians, 13.5.</hi> Chriſt in you, except you be Reprobates, and likewiſe in <hi>Galathians 2.20.</hi> ſaith <hi>Paul, I live, yet not I, but Chriſt liveth in me,</hi> &amp;c. and many other Scrip<g ref="char:EOLhyphen"/>tures might be brought to prove the true Light Chriſt to be in his peo<g ref="char:EOLhyphen"/>ple, which this wicked deceiver denies; but the wiſe in heart may ſee by this, that the life of the Scripture judges his doctrine to be contrary to the doctrine of the Apostles; and his faith to be contrary to the faith of Gods elect, ſo out of the doctrine and faith of Gods Elect, in the state of Reprobacy, not to be owned nor credited, but to be denied and ſharply reproved by all that fear the Lord. Now I know none of Gods people, that love him, and fear him, will believe the Lies, ſlan<g ref="char:EOLhyphen"/>ders, and falſe aſperſions which this unreaſonable man in his book hath caſt upon us he calls Quakers, but will diſcern it to be written
+<pb facs="tcp:109061:4"/>from an envious wicked heart and ſpirit, (becauſe his will hath been croſſed by us) and will judge his lying malicious ſpirit, and not enter<g ref="char:EOLhyphen"/>tain any hard thoughts againſt us, through his Lies and falſe Ac<g ref="char:EOLhyphen"/>cuſations; but the ignorant, and ſuch as have an enmity against the truth, and the witneſſes of it, who are given up to believe lies may be ready to believe his blaſphemous Lying Aſperſions, which he hath caſt upon God and his people, but however, we are clear in the ſight of the Lord and his people; and the truth is over him, and all the world, and whoſoever ſtand up to oppoſe it, or in any manner ap<g ref="char:EOLhyphen"/>pears againſt it, muſt bow before it, and come under it, and the witneſses of it: for all Nations muſt bow before the pow<g ref="char:EOLhyphen"/>er of Truth manifest in Gods Elect; The Royall ſeed called Quakers,</p>
+            <closer>
+               <signed>I. H.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:109061:4" rendition="simple:additions"/>
+            <head>The Lying Prophet Diſcovered and Reproved.</head>
+            <p>
+               <hi>Lawrence Claxton</hi>
+               <lb/> BOaſteth and ſaith, <hi>If I had not the ſpirit of Inſpiration, or Revelation in my own Soul, not any part or portion of the Scripture would belong unto me,</hi> pag. 1.</p>
+            <p>
+               <hi>Anſ.</hi> It is the Spirit of God with which the Saints were Inſpired, which unto them revealed the My<g ref="char:EOLhyphen"/>ſteries and ſecrets of God, who as they were moved ſpoke, and writ forth the Scriptures, which thou doſt not rightly underſtand, who wants the ſame Spirit and Life, for thy lying and boaſting manifeſteth thy ſpirit to be none of the true Spirit with which the Saints were and are Inſpired; ſo ignorant of the Myſtery and Life of them; but that part or portion of Scripture belongs unto thee, which is againſt blaſphemers, lyars, boaſters and ungodly deceivers, and to be applied to thy preſent condition, but the bleſſings and promiſes which appertaineth to the Elect Seed thou haſt nothing to do with; And what haſt thou to do to ſpeak of the Spirit of Inſpiration or Revelation in thy Soul, who ſaid, thou haſt nought of God in thee?</p>
+            <p>L. C. <hi>Alſo boaſteth of the Spirit, To be more fully manifeſted in him then it was in the Saints that gave forth the Scriptures,</hi> pag. 1.</p>
+            <p>
+               <hi>Anſw.</hi> The lying ſpirit which was caſt out of the Saints, by the power of the Spirit of truth, in a large manner is manifeſt in thee, as thy fruits makes it appear; and thou may be aſhamed to boaſt thus of thy ſpi<g ref="char:EOLhyphen"/>rit, who ſaid in the hearing of ſéveral honeſt people, Thou had nought of God in thee; it is the lying imagina<g ref="char:EOLhyphen"/>tion of thy corrupt fleſhly wiſdom, which thou calls the In<g ref="char:EOLhyphen"/>ſpiration of the Spirit, by which thou art deceived and de<g ref="char:EOLhyphen"/>luded, and ſeeks to deceive and delude others, but the E<g ref="char:EOLhyphen"/>lect are out of thy reach, and fathomes thee.</p>
+            <pb n="2" facs="tcp:109061:5"/>
+            <p> L. C. Saith, Moſes, <hi>the Prophets and Apoſtles never rightly underſtood, neither was required of them to know Chriſt in their Commiſſion any other but God the Father,</hi> P. 4.</p>
+            <p>
+               <hi>Anſw.</hi> That is falſe, <hi>Moſes</hi> knew a Prophet ſhould ariſe like unto him, which the people ſhould hear, which was Chriſt the Son of God; &amp; the Prophet knew a Virgin ſhould conceive and bear a Son, and call his Name <hi>Emanuel;</hi> and ſaid, Unto us a Son is given, &amp;c. and the Apoſtles knew the Father, Word and Spirit to be one, and there was them that were witneſſes of his birth, <note place="margin">Acts <hi>3.15</hi>
+               </note> ſufferings and Reſurre<g ref="char:EOLhyphen"/>ction, which thou knows nothing of but by tradition, the Apoſtles were eye-witneſſes of him who was born of the Virgin, and knew him in the fleſh a ſingle perſon, and af<g ref="char:EOLhyphen"/>ter his death and Reſurrection were to know him no more, 2 <hi>Cor.</hi> 5. Let him that readeth underſtand, for here haſt thou manifeſted thy lyes and confuſion, thou haſt lyed of <hi>Moſes,</hi> the Prophets and Apoſtles, and of the Scriptures their writings, as the Scripture will make plainly appear, read <hi>Deut.</hi> 18.18. <hi>Iſa.</hi> 9.6. <hi>Iſa.</hi> 7.14.</p>
+            <p>L. C. Affirmeth, <hi>That the wiſdom of</hi> Solomon <hi>was but na<g ref="char:EOLhyphen"/>tural,</hi> P. 5. <hi>and in the</hi> 6. p. <hi>ſaith,</hi> Solomons <hi>writings were no Scripture, nor the writings of</hi> Job, p. 7.</p>
+            <p>
+               <hi>Anſw.</hi> The wiſdom God gave unto <hi>Solomon</hi> was pure and ſpiritual, it is contrary to the diſpoſition and nature of God to give gifts unto his people, <note place="margin">1 <hi>Kings</hi> 3.12.</note> contrary to himſelf; that is natural in thee, which wrongs the Lord and calls <hi>Solomons</hi> wiſdom (Gods gift) natural, <note place="margin">1 <hi>Kings</hi> 3.28.</note> it is manifeſt thou ſees not with the eye of Faith as thou conceives, but art deceived by the prince of darkneſs the old ſerpent, who goes about through thy policy to turn the truth into a lye, but the ſerpent with all his ſubtilty cannot prove the wri<g ref="char:EOLhyphen"/>tings of <hi>Solomon</hi> to be no Scripture, nor perſwade ſuch as fear the Lord to any ſuch thing; none but ſuch as are given up to believe lyes will credit thee, for his writings are truth, and the other Scripture is no more; And as for the writings of Righteous <hi>Job</hi> (whom thou confeſſeſt Righ<g ref="char:EOLhyphen"/>teous) who ſaw the Lord of Glory; <note place="margin">
+                  <hi>Job</hi> 42.5.</note> they are alſo to be be<g ref="char:EOLhyphen"/>lieved (and not ſcrupled) to be truth given forth from the Spirit of truth; and to be as true as the writings of
+<pb n="3" facs="tcp:109061:5" rendition="simple:additions"/>the Prophets and Apoſtles; and thou art Judged out of the truth, in the lye, by the Righteous Spirit which was ma<g ref="char:EOLhyphen"/>nifeſt in <hi>Job;</hi> who Judges with thy lying ſpirit all the tranſlaters and compoſers of the Scriptures, who put <hi>Job</hi> &amp; <hi>Solomons</hi> writings amongſt the Prophets and Apoſtles.</p>
+            <p>L. C. Likewiſe affirmeth, <hi>That the Scriptures were written for our learning to know God, &amp;c.</hi> p. 11.</p>
+            <p>
+               <hi>Anſw.</hi> The Jews and Phariſees which Chriſt reproved had the Scriptures, the writings of <hi>Moſes</hi> and the Prophets, yet knew not Chriſt, nor God the Father; and thou and many other have the Scriptures, and yet wants the know<g ref="char:EOLhyphen"/>ledge of God, none knows God the Father but ſuch as the light Chriſt reveals him unto; here thou contradicts the Doctrine of Chriſt, and ſeeking (with the unbelieving Jews) for the knowledge of God, the Life, in the Scrip<g ref="char:EOLhyphen"/>tures, read <hi>Luke</hi> 10.22. <hi>John</hi> 8.19. here thou haſt ſhewen thou knowes not the right uſe of the Scriptures, which are ſer<g ref="char:EOLhyphen"/>viceable in their places.</p>
+            <p>L.C. Boaſteth and ſayes, <hi>We write not of other mens labours, but as our Faith within us reveals unto us,</hi> p. 13.</p>
+            <p>
+               <hi>Anſw.</hi> All that reads his book may ſee him to be an im<g ref="char:EOLhyphen"/>pudent lyar, for he hath written of the works of the Pro<g ref="char:EOLhyphen"/>phets and Apoſtles, which are none of his; this is the falſe faith, which reveals ſuch horrible lyes, and none of the Faith of Gods Elect thou boaſts of to be in thee; for the true Faith is of God, his own pure gift, but thou haſt ſaid there is nought of God in thee, and the fruits of the true faith doth not appear in thee, but the contrary.</p>
+            <p>L.C. He faith, <hi>The Sun at his preſence</hi> (viz. <hi>Chriſt Jeſus in the form of man) will be put forth as the ſnuffe of a candle, &amp;c.</hi> pag. 15.</p>
+            <p>
+               <hi>Anſw.</hi> The Sun, Moon and Stars receives their glory and clearneſs from Chriſt the Word, the Eternal Son of God, <note place="margin">
+                  <hi>John</hi> 1.1.</note> who was before man had a form, and the Sun is not put out at the preſence of him that made it, whoſe preſence fills Heaven &amp; earth; this is one of thy own fooliſh imaginations, which thou calls the Revelation of Faith, for when the Sun ſhines in the fulneſs of the ſtrength and glory, the moſt of
+<pb n="4" facs="tcp:109061:6"/>the preſence and power of God is ſeen in it.</p>
+            <p>L.C. Likewiſe ſaith, <hi>The nature of our Revelation, leads us forth to no manner nor form of worſhip,</hi> p. 8.</p>
+            <p>
+               <hi>Anſw.</hi> Then thy revelation is contrary to the Revelation of Chriſt and the Saints, and here thou haſt ſhut thy ſelf out of their Doctrine and Practice; Chriſt preached and prayed, <note place="margin">Luke <hi>11.</hi> Matth. <hi>6.1</hi> Theſ. <hi>5.11</hi>
+               </note> and taught to pray and to worſhip God who is a Spirit, in the Spirit and in the Truth; and the Saints that lived in the power of Chriſt, met together, and in love edified one another, Preached, prayed &amp; propheſied as they were moved in the power of the Holy Spirit; ſo had a form of godlineſs or worſhip, though in the power of God, as the choſen of the Lord, who bears his glorious i<g ref="char:EOLhyphen"/>mage have now, who are acted in the power of the ſame E<g ref="char:EOLhyphen"/>ternal Spirit, who judgeth thy revelations to be fooliſh and vain imaginations, and out of both form and power of godlineſs.</p>
+            <p>L.C. Saith, <hi>That one of them</hi> (viz. <hi>the Quakers) declared, that his God was an infinite ſpirit, all light, life, power, that filled Heaven and earth with his glory, &amp;c.</hi> and he likewiſe ſaith, <hi>The Spirit is nothing without a body;</hi> and a little before ſaith, <hi>Nei<g ref="char:EOLhyphen"/>ther was this any God at all,</hi> p. 20.</p>
+            <p>
+               <hi>Anſw.</hi> I do bear Teſtimony in the ſtrength of the Eternal Spirit of Life, <note place="margin">2 <hi>Cor.</hi> 3.17 <hi>John</hi> 4.24.</note> unto the God that I then declared of, which is as I then affirmed, a Spirit of Light, Life, Glory, Power and infinite Wiſdom, who is not to be confined or limitted to time or place, and his glorious preſence doth fill Heaven and earth (though thou would limit him, and have him in Heaven above the ſtars and in no Creature) but accord<g ref="char:EOLhyphen"/>ing to the Scripture, Heaven is his Throne, and the earth is his foot-ſtool, <note place="margin">Iſa. <hi>66.</hi>
+               </note> the Heaven of Heavens cannot contain him, who was from all Eternity, <note place="margin">1 <hi>Kings</hi> 8.27.</note> and is to all eternity before any thing was formed, by his own Power and Wiſdom gave to man and every Creature his form, the nature of man and Angels, <note place="margin">2 <hi>Chron.</hi> 6.18.</note> gave them not their form, as thou falſly and blaſphemouſly affirmeth, againſt thee and thy imagined god I do bear witneſs, in the Spirit and Power if Chriſt, and all thy lying imaginations, who denies God to be a Spirit and to dwell in his people, <note place="margin">2 <hi>Cor.</hi> 6.19.</note> contrary to the holy Scriptures,
+<pb n="5" facs="tcp:109061:6" rendition="simple:additions"/>and denies the Words of Chriſt, who ſaith in <hi>John</hi> 4. God is a Spirit, and a ſpirit hath neither fleſh nor bones, <note place="margin">
+                  <hi>Luke</hi> 24.39.</note> and the fleſh profiteth nothing, it is the Spirit that giveth life, and the Spirit is the true God, which thou ſayes is no God, whoſe dreadful Judgements thou muſt one day know to thy pain and torment, for thy blaſphemy againſt him and his Tabernacle which is with men, <note place="margin">
+                  <hi>Reu.</hi> 21.3.</note> who dwell and walks in his people, though thou would exclude him from thee and all other; who ſaid, there was naught of God in thee nor in any man, which words preceeded from thee, as ſe<g ref="char:EOLhyphen"/>veral can and will witneſs that heard thee, which makes it appear thou denies the Scripture, which ſaith, I in them and they in me, and I will dwell in them and walk with them, ſaith the Lord; <note place="margin">2 <hi>Cor.</hi> 6.16.</note> yet thou brings ſcriptures in a pre<g ref="char:EOLhyphen"/>tence to prove thy Imaginations, but all thy covers are too narrow to hide thee, they ſleights, errours, lyes and blaſ<g ref="char:EOLhyphen"/>ſphemies are ſeen, and thy wicked unclean ſpirit which vents all theſe abhominations is eternally Judged, and condemned by the Spirit and Power of the eternal un<g ref="char:EOLhyphen"/>changeable God; and for all thy craft and ſubtilty thou ſhalt be bruiſed and cruſhed, the rod is over thee, it is not ſaying as thou ſaid unto me, Thou art damned to all Eter<g ref="char:EOLhyphen"/>nity (or words to the ſame effect) that will ſave thee from the wrath of the Almighty (<hi>Jehovah</hi> our God) which with<g ref="char:EOLhyphen"/>out mixture will be poured forth upon thy head, and all like-minded with thee ſhall partake of the ſame; and this was one of thy ſubtil Evations, when any hard queſtion was asked thee, which thou couldſt not or durſt not for ſhame anſwer, thou art damned already I will not anſwer thee, and ſo put things by which came near thee, though ſeveral times thou was taken in horrible lyes, and ſpoke divers times unto us after thou hadſt denied it, which manifeſted the true. God thou puts far from thee that ſhould have guided thee, to have ſpoken the truth, unto which thou appears a ſtrong enemy; Therefore L.C. thou may expect the juſt judgements which is pronounced againſt thee, to come ſpeedily upon thee, and the unreaſonableneſs is in thy ſelf and in thy Companion, and the rage and wickedneſs; though thou
+<pb n="6" facs="tcp:109061:7"/>would falſly charge us with ſuch like ſtuffe as you trade with, but by us it is denied and returned into your own boſoms, into its proper center; And as for thy ſaying, a Spirit is nothing without a body, herein alſo thou mani<g ref="char:EOLhyphen"/>feſts thy ignorance, concerning the devine eternal un<g ref="char:EOLhyphen"/>changeable ſubſtance, the Spirit which gives every thing its being, body or form, and the body without the Spirit is dead, <note place="margin">
+                  <hi>Jam.</hi> 2.26.</note> according to Scripture, though thou would have the form, the body, to be the ſubſtance of the Spirit; what a miſt of thick darkneſs is over thee, that thou vents ſuch curſed doctrine; where doſt thou read in the Scripture that the Spirit is nothing without a body, or who ever durſt be ſo impudent as to broach ſuch a blaſpemous doctrine? I never read that the Papiſts for all their blindneſs ever held forth ſuch a doctrine, here the Idolaters may Judge thee, and thy curſed opinion; yet the Spirit hath a body, but according to thy own confeſſion thou art none of the Mem<g ref="char:EOLhyphen"/>bers of it; but ſuch as are baptized with it knows his bo<g ref="char:EOLhyphen"/>dy, nature, vertue and life, who was before man was for<g ref="char:EOLhyphen"/>med; Learn what that means, the bodies of the Saints are the Temple of the living God, <note place="margin">2 <hi>Cor.</hi> 6.16</note> and prove thy God (which thou ſayes is a man above the ſtars, no where elſe in no Creature, nor in this world) by plain Scripture, or con<g ref="char:EOLhyphen"/>feſs thy groſs ignorance and darkneſs, for I utterly deny thy meanings and corrupt imaginations; and if thy God be ſo far from thee, thou haſt a great way to go for Coun<g ref="char:EOLhyphen"/>ſel; but <hi>Moſes</hi> ſaid, the Word was nigh in the hearts of <hi>Iſraels</hi> Children; and likewiſe <hi>Paul</hi> to the <hi>Romans;</hi> and the Word was God ſaith <hi>John;</hi> ſo that thy doctrine and the Saints that gave forth the Scripture accord not, which clearly evidenceth a contrary ſpirit in thee, if thou hadſt not confeſſed there were nought of God in thee; ſo that thy commiſſion, the voice of words, which thou pretendeſt is alſo judged and denied, being ſeen by the light of devine glory in us, to be deceit and hypocriſie, and the de<g ref="char:EOLhyphen"/>luſion of Satan which thou profeſſeſt, who haſt uttered ſuch abhominable filthy blaſphemies, and railing ſpeeches againſt the Lord and his onely people, which will haſten
+<pb n="7" facs="tcp:109061:7" rendition="simple:additions"/>thy downfal and deſtruction, but our foundation ſtands ſure, not to be ſhaken or moved, mark that, and the ſen<g ref="char:EOLhyphen"/>tence of eternal Condemnation, which thou ſayes five of us came under, we ſtand clear from, and under it thou thy ſelf and thy Companion art, and the great darkneſs you are in (who deny and oppoſe the light of Jeſus Chriſt within us) in the reprobate ſtate, who know not the light Chriſt Jeſus within you, whom we confeſs in us (as the Saints did) the hope of our eternal glory, and witneſs him againſt you, the world, and all men upon the earth who ſtand up againſt him, who is our life, rock, refuge, and the horn of our Sal<g ref="char:EOLhyphen"/>vation, and the Condemnation of all that deny and op<g ref="char:EOLhyphen"/>poſe his light within.</p>
+            <p>L. C. Thou ſayes in the 20 and 21 page, <hi>Both Angel and man hath forms ſutable to their natures, and that it was their na<g ref="char:EOLhyphen"/>tures that gave them their form; and after thou ſayeſt towards the latter end of the</hi> 21 p. <hi>God created man in his own Image; and likewiſe ſayes, God hath the ſame form that man hath, and yet one is ſpiritual and the other natural, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Mark, The heap of confuſion he has compacted by his confuſed ſenſual wiſdom, which he calls the Seed of Faith; if God created man, <note place="margin">Gen. <hi>2.7.</hi> John <hi>1.</hi>
+               </note> then his nature gave him not his form, but God; and if by the word ſpeaking, came forth both Angel and man, as thou ſayes, then their nature gave them not their form, but God that ſpoke the word; and if God hath the ſame form as man hath, the not ano<g ref="char:EOLhyphen"/>ther as thou falſly affirment; Is there no difference be<g ref="char:EOLhyphen"/>twixt a ſpiritual and a natural form? Herein thou haſt contradicted thy ſelf, that all who have a true underſtand<g ref="char:EOLhyphen"/>ing may ſee thy darkneſs and confuſion.</p>
+            <p>L. C. Thou alſo ſayes, <hi>When thou believeſt him onely an infi<g ref="char:EOLhyphen"/>nite Eternal ſpirit, then thy faith is wavering like unto the God, for a ſpirit without a body cannot be known, &amp;c.</hi> p. 22.</p>
+            <p>
+               <hi>Anſw.</hi> The Faith God hath given me, by which I ſee and know him to be an Eternal Spirit, a devine ſubſtance is not wavering, but ſound and ſtedfaſt; neither is God the infinite Eternal ſpirit wavering as thou falſly affirmeth, but ſtands and remains in his own being, nature and life for ever;
+<pb n="8" facs="tcp:109061:8"/>and the Saints knew God to be a Spirit, as alſo Jeſus Chriſt hath declared and confeſſed him, <note place="margin">John <hi>4.</hi>
+               </note> and unto their Teſtimo<g ref="char:EOLhyphen"/>ny I do bear witneſs againſt thy lyes and confuſion; and God who cauſeth light to ſhine forth of darkneſs, hath ſhined in our hearts, to give us the knowledge of his glory in the face of Jeſus Chriſt; <note place="margin">2 <hi>Cor.</hi> 4.6</note> ſo that we know God to be a Spirit of infinite power by his light in us, as the Saints did that gave forth the Scriptures, which knowledge thou and all the world wants who contemns and oppoſeth his light within; And is not this the blaſpemy againſt the holy Spirit, to deny God to be a Spirit, haſt not thou here brought thy ſelf under Eternal Condemnation, is not this the unpardonable ſin? But we do not deny that God was in Chriſt, and that in his body the fulneſs of the God<g ref="char:EOLhyphen"/>head dwells, <note place="margin">
+                  <hi>Joh.</hi> 16.23</note> Chriſt is the ſame for ever; now in his Saints, and God in him, the Father and Son we do not deny, but confeſs to be one, and he that hath the Son hath (the life) the Father alſo, but thou haſt excluded him from thee, who ſayes, there is nought of God in thee, and Chriſt hath but one Body, one Church, one Temple, and yet there are ma<g ref="char:EOLhyphen"/>ny Members; but thy corrupt ſenſual wiſdom cannot ſee into this divine Myſtery, though the Scripture in plain words declare it; So that for ever thou may ſtop thy mouth, for boaſting of thy knowledge in the Scriptures.</p>
+            <p>L. C. Who ſayes, <hi>Becauſe we witneſs Chriſt manifeſt in us, that he is but in one of us, unleſs we can make it appear, that Chriſt hath ſo many bodies as there is</hi> Quakers, <hi>&amp;c.</hi> p. 25.</p>
+            <p>
+               <hi>Anſw.</hi> We do ſay and teſtifie in the fear of the Lord, with a true and perfect underſtanding, (notwithſtanding thy reviling) that the true light Chriſt the ſpiritual body, or Divine ſubſtance, is manifeſt in us; and alſo do bear witneſs of his deſcending, and aſcending for above all hea<g ref="char:EOLhyphen"/>vens, and it was the ſame which aſcended, <note place="margin">
+                  <hi>Coloſ.</hi> 1. 2 <hi>Cor.</hi> 13.5 <hi>Eph.</hi> 4.10. 1 <hi>Cor.</hi> 15.50.</note> that deſcend<g ref="char:EOLhyphen"/>ed, according to the Scripture; and do thou prove the de<g ref="char:EOLhyphen"/>ſcending of a body of fleſh, blood and bones; fleſh and blood enters not into the Kingdom of heaven, learn what this meaneth, <note place="margin">
+                  <hi>John</hi> 1 14.</note> the word was made fleſh, and the fleſh ſuffered without the gate at <hi>Jeruſalem,</hi> but the life God died not, which was in the body of fleſh, but entered into glory, into
+<pb n="9" facs="tcp:109061:8"/>the ſame glory it was in before the world was made, <note place="margin">
+                  <hi>Eph.</hi> 4.10</note> whoſe glory and preſence filleth all things, and is amnifeſt in us, his beauty, his preſence and power is ſeen known, and right<g ref="char:EOLhyphen"/>ly underſtood; and his ſpiritual body, his pure Divine pre<g ref="char:EOLhyphen"/>ſence is but one, yet in thouſands it is manifeſt, glory to his eternal name <hi>(Jehovah)</hi> for ever; but this is beyond the reach of thy deviliſh ſenſual wiſdom, this ſecret is hid from the Magicians of <hi>Egypt,</hi> the worlds wiſe men, who want the pure wiſdom and reaſon; And this I affirm, <note place="margin">1 <hi>Cor.</hi> 1.21.</note> he hath no true ground for his faith, ſo out of the true faith; but what haſt thou to do to boaſt of thy faith or ſpeak of it, who denies the true light Chriſt to be in thee; and ſayes there in nought of God in thee, is not the true light Chriſt the Authour of faith? ſo he that hath not Chriſt the power of God, <note place="margin">
+                  <hi>Heb.</hi> 12.2.</note> the ground of faith, which faith ſtands in, his belief or faith ſtands in the wrong ground, in the wiſdom of mens words, and this is the falſe faith, the faith of the whoriſh wo<g ref="char:EOLhyphen"/>man the falſe Church, the worlds faith, and the faith which L.C in acted in, which all along in his book he boaſts of, who denies the true light Chriſt within, the ground and Author of our faith.</p>
+            <p>L. C. In the 17. p. It is ſaid; <hi>Look into thy own body, there thou ſhalt ſee the Kingdom of heaven,</hi> &amp;c. <hi>and in pag.</hi> 25. he ſaith <hi>Chriſt is in heaven and in no creature.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The Kingdom of heaven being in man, if Chriſt be in heaven he muſt needs be in man, would thou exclude Chriſt from his Kingdom, or can it be properly or truely ſaid to be a Kingdom without a King? but here thou haſt manifeſted thy ignorance of the Reign, Government, King<g ref="char:EOLhyphen"/>dom and power of Chriſt which is in the Saints, and that another King (the Prince of darkneſs) hath the Govern<g ref="char:EOLhyphen"/>ment in thee.</p>
+            <p>L. C. <hi>He alſo goes about, through his ſubtilty, to ſtrengthen the hands of the wicked perſecutors, the enemies of God and his people in New England and other. Nations, ſaying that the ſuffering of the Quakers in New England or in any other Nation is not for righ<g ref="char:EOLhyphen"/>teouſneſs,</hi> &amp;c. p. 44.</p>
+            <p>
+               <hi>Anſw.</hi> Here thou joyns with <hi>Cains</hi> generation, the perſe<g ref="char:EOLhyphen"/>cutors
+<pb n="10" facs="tcp:109061:9"/>of the innocent, and manifeſteth the linage and ſtock thou art of; where or when did any of the ſeed of faith per<g ref="char:EOLhyphen"/>ſecute any for conſcience ſake, were not the righteous ſeed ſufferers in all ages? bluſh and he aſhamed of thy wicked<g ref="char:EOLhyphen"/>neſs; what unrighteous action canſt lay to the charge of of any one of theſe thou calls <hi>Quakers</hi> in New England, that ſo cruelly ſuffered by that bloody generation; their innocent ſufferings and the patient ſuffering of thoſe called Quakers in other Nations, ſhall ſtand a witneſs againſt all Gods enemies there and elſe where, to the honour of the righteous God, &amp; to their eternal ſhame and confufion, and Gods judgements is nigh to come upon that bloody genera<g ref="char:EOLhyphen"/>tion in New England and elſe where, who have drunk the blood of the innocent; and all that joyn with them a<g ref="char:EOLhyphen"/>gainſt the Elect ſeed called Quakers, ſhall partake of the wrath and indignation of the Lord God, which upon them will ſpeedily be poured forth except they repent, and they and thou, ſhall know one day the ye have wronged the righteous ſeed, to your ſorrow and torment, who for the innocent truth, and for righteouſneſs have ſuffered long and cruel impriſonments, ſtockings, ſtonings and cruel ſcourgings, the ſpoiling of their goods, and the loſſe of ſome of their members which <hi>Cains</hi> generations muſt an<g ref="char:EOLhyphen"/>ſwer for, every drop of innocent blood they muſt give an account for; the Lord of hoſts will avenge the blood of his people, who will render to every one a juſt recompence of reward according to their works, wo, wo to the mercileſs, for they ſhall have no mercy.</p>
+            <p>L. C. Rages againſt us and ſayes, <hi>You</hi> Quakers <hi>are not Commiſſionate ſo counterfeits, yea guilty of ſpiritual Treaſon; and would have us deny the Lord Jeſus within us,</hi> &amp;c. <hi>pag.</hi> 45.</p>
+            <p>
+               <hi>Anſ.</hi> Our Authority and Commiſſion ſtands in the power to Chriſt Jeſus manifeſt in within us, unto whom we do bear witneſs in the power of his own ſpirit and life, <note place="margin">2 <hi>Pet.</hi> 1.21.</note> as therein we are moved (as the Saints in all ages did) and his voice we know and hear, <note place="margin">John <hi>10.</hi>
+               </note> (which thou art a ſtranger unto) and his Counſels and commands, through the vertue of his power we are and have been ſubject unto, thorow the
+<pb n="11" facs="tcp:109061:9" rendition="simple:additions"/>which many times, by <hi>Cains</hi> generation, we have ſuffered much; <note place="margin">Col. <hi>1.</hi>
+               </note> but it is thy ſelf and thy generation which are guilty of high ſpiritual treaſon, that denies Chriſt within, and would have us to do ſo too; but we deny thy curſed Counſel and Doctrine and know one day that thou ſhalt anſwer for all theſe things at the Bar of Divine Juſtice, and thy Commiſſion, the voice of words thou ſpeaks of, is ſeen with the eternal light, and judged to be deluſion, and thou proved thy ſelf to be the counterfeit.</p>
+            <p>L. C He affirmeth in p. <hi>26. that God or Chriſt is not in this world, neither in Prophet nor righteous; And alſo that the ſeed or nature of God is in all true believers.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Here thou would devide God from his ſeed or na<g ref="char:EOLhyphen"/>ture, which is inſeparable, and would exclude God from the world, believers and righteous; what confuſion is this, who begets the Seed or nature of God in man, and how is it generated or begotten, or how comes the ſeed or nature into man, if God be not in man, by his own power to generate it; and what makes a man righteous if the righteouſneſs of God be not in him? here thou haſt writ<g ref="char:EOLhyphen"/>ten thou knows not what, uttered words without under<g ref="char:EOLhyphen"/>ſtanding.</p>
+            <p>L. C. Alſo faith, <hi>The ſeed of the woman is faith, and the ſeed of the Serpentine Angel is Reaſon,</hi> &amp;c. <hi>and this Serpents ſeed Reaſon put to death Jeſus and his Apoſtles, and that reaſon hath power to put to death the ſeed of faith.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The ſeed of the woman is Chriſt, and the ſeed of the Serpent is ſin and iniquity, they were unreaſonable men that murdered the juſt and innocent, ſuch as thou art, but the ſeed of faith ſhall never die; <note place="margin">
+                  <hi>Joh.</hi> 6.47. <hi>Joh.</hi> 3.15.</note> he that believes in me ſhall never die, never periſh, never be confounded, but ſhall live for ever, have everlaſting life, it is the Serpents ſeed, the ungodly, the unrighteous, the blaſphemers and lyars, that dies and eternally periſhes, and the ſeed of faith is not out of the pure reaſon, but in it; Reaſon, doth not deſtroy but preſerveth; the perſecutor, the devourer is out of reaſon, unreaſonable.</p>
+            <pb n="12" facs="tcp:109061:10"/>
+            <p> Several particulars which <hi>L.C.</hi> in his Book hath aſſerted, deſired to be proved, by plain Scripture, or otherwiſe they will ſtand upon record, as lying forged imaginations and no true Revelations.
+<list>
+                  <item>1. That Faith ſhall die in the heel, and reaſon in the head.</item>
+                  <item>2. That the Angel did deſcend into the womb of <hi>Eve.</hi>
+                  </item>
+                  <item>3. That a ſpirit cannot live without a body, <hi>p.</hi> 28.</item>
+                  <item>4. That we and our God are curſed to all eternity, <hi>pag.</hi> 28.</item>
+                  <item>5. That Chriſt or God is above the Stars with a body of fleſh and bones.</item>
+                  <item>6. That God that Chriſt ſaid was a ſpirit, the meaning of his Revelation was, that his inviſible ſoul was that God or ſpirit abiding onely in his perſon. <hi>p.</hi> 29.</item>
+                  <item>7. That Reaſon is the ſeed of the Serpent.</item>
+                  <item>8. That by faith, reaſon ſhall be kept in Eternal death.</item>
+                  <item>9. That God gave faith, Reaſon, and ſence but once.</item>
+                  <item>10. And that faith reaſon and ſence have in all genera<g ref="char:EOLhyphen"/>ted, in its kind form and nature as in <hi>p.</hi> 40.</item>
+                  <item>11. That the Devils Kingdom, and reaſons Kingdom are one.</item>
+                  <item>12. That God doth damn as well as ſave, and that not for any evil thing done, as he hath aſſerted in <hi>p.</hi> 58.</item>
+                  <item>13. That we acknowledge no other God but what is within us.</item>
+                  <item>14. And that we conceive this God was an infinite no<g ref="char:EOLhyphen"/>thing, and ſo made all things of nothing.</item>
+                  <item>15. That the light in us is darkneſs.</item>
+                  <item>16. That an infinite ſpirit without a body is nothing.</item>
+                  <item>17. That we ſay God hath no form.</item>
+                  <item>18. That all the time <hi>Paul</hi> was clothed with a corrupt perſecuting ſpirit he was a veſſel of honour in the account of God.</item>
+                  <pb n="13" facs="tcp:109061:10"/>
+                  <item> 19. That God is all Faith and no Reaſon; and that Rea<g ref="char:EOLhyphen"/>ſon is of the nature of the Devil, <hi>p.</hi> 31.</item>
+                  <item>20. That it was the wiſdom of the fleſh that made a chief Magiſtrate, as in <hi>p.</hi> 36.</item>
+               </list>
+            </p>
+            <p>This and much more of the like nature hath proceeded from the imagination of thy ſenſual wiſdom, which thou calls the Revelation of thy generated faith, and many rail<g ref="char:EOLhyphen"/>ing &amp; reviling expreſſions againſt us wch thou calls <hi>Quakers,</hi> wch I ſhall paſs by, as not being worth mentioning, but for all theſe things thou muſt give an account, and terrible and dreadful will the day day of account be unto thee, who hath uttered ſo many horrible blaſphemies, lies and falſe accuſa<g ref="char:EOLhyphen"/>tions againſt the God of life, (who is a ſpirit) and againſt his people, and alſo goes about in thy ſenſual wiſdom, to make a difference amongſt believers, as if God anſwered ſome and not others.</p>
+            <p>L. C. pag. 41. <hi>thou ſayes that thou canſt not find that ever God did hear or give an anſwer to any private believer?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Which is falſe; for God hears and anſwers all be<g ref="char:EOLhyphen"/>lievers, it is the lyar and unbeliever that God neither hears nor anſwers; The whole houſhold of faith, who are the family of heaven, of one heart, one ſoul and one ſpirit, in and thorow faith have all acceſſe to him and acceptance with him, all heard and anſwered by the Lord God who is near unto them (even in their hearts) to hear their re<g ref="char:EOLhyphen"/>queſts and to anſwer their demands, and alſo to relieve their neceſſities, and there is no difference in true believers, the deviſions and differences are amongſt the unbelievers and the wicked: it were in vain for ſuch as thou calls pri<g ref="char:EOLhyphen"/>vate believers to pray or believe, if God ſhall neither hear nor anſwer them, in this all the whole houſhold of faith will deny thee &amp; witnes againſt thee, who have all been heard and anſwered of God; in this alſo haſt thou diſcovered thy folly.</p>
+            <p>L. C. Likewiſe ſayes in the 42. <hi>p. I ſhall reveal unto you the difference of a Commiſſionate faith from a generated faith, and how the one is ceaſed, the other not,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> Where doſt thou read of a commiſſionate or a ge<g ref="char:EOLhyphen"/>nerated Faith in the holy Scriptures? here thou art not guided by the Scripture, nor the Spirit that gave it forth;
+<pb n="14" facs="tcp:109061:11"/>Faith is but one, <note place="margin">Eyb. <hi>4.5</hi>
+               </note> the gift of God, not to be devided, the My<g ref="char:EOLhyphen"/>ſtery held in a pure Conſeience, by which all Gods chil<g ref="char:EOLhyphen"/>dren had and have victory over the world, <note place="margin">John <hi>5.4.</hi>
+               </note> its nature and life, and in it reigned over the prince and power of darkneſs, as all who be in the Faith will witneſs, one Faith, one Lord, one Baptiſm, and that it is not ceaſed, nor never cea<g ref="char:EOLhyphen"/>ſeth, but remaineth and endureth in the Church of God, the Aſſembly of the firſt-born, his Elect in which they have all acceſs to and acceptance with God; but this Faith and charity thou art out of, which is manifeſted inthe Saints, by which they live and pleaſe-God.</p>
+            <p>L.C. He ſaith, <hi>The nature of Reaſon is to cheat, injure and perſecute his neighbour, &amp;c.</hi> p. 47.</p>
+            <p>
+               <hi>Anſw.</hi> That is falſe, It is the nature of Reaſon to do the thing which is reaſonable, it is contrary to Reaſon to cheat, lye and perſecute, ſuch are out of pure Reaſon that do ſuch things, unreaſonable men like thy ſelf.</p>
+            <p>L.C. Likewiſe ſaith, <hi>For as the Law was made for the lawleſs,</hi> viz. <hi>The Seed of Reaſon, &amp;c.</hi> p. 49.</p>
+            <p>
+               <hi>Anſw.</hi> This is alſo falſe, The law is not made for the Seed of Reaſon, which is added becauſe of tranſgreſſion, and made for the lawleſs, the Law is grounded upon pure Reaſon, and the lawleſs and tranſgreſſors are out of the Reaſon in the unreaſonableneſs; So the Law hath power over them to condemn them; pure Reaſon is Law, and what is contrary is no Law, and in this alſo haſt thou ope<g ref="char:EOLhyphen"/>ned thy folly.</p>
+            <p>L.C. Alſo ſaith, <hi>Blaſphemy is matter of Conſcience (as you call it) ſo in Chriſts Kingdom, &amp;c.</hi> p. 50, 51.</p>
+            <p>
+               <hi>Anſw.</hi> This is another of thy horrible lyes; Blaſpemy, er<g ref="char:EOLhyphen"/>rour, deceit, lyes and iniquity is in the Devils kingdom, in which thou art, and not in the peaceable Kingdom of Chriſt into which no unclean thing can enter, blaſpemers are ſhut out of it, and hath no part in it.</p>
+            <p>L.C. Doth likewiſe ſay, <hi>The blind Quakers are labouring through the fire of their own Righteouſneſs, intending to find reſt but cannot, &amp;c.</hi> p. 53.</p>
+            <p>
+               <hi>Anſw.</hi> The fire which they have laboured in, is a myſtery to thee, if ever thou come to know it, and feel the heat of it,
+<pb n="15" facs="tcp:109061:11"/>it will be a dreadful time unto thee, and our own righte<g ref="char:EOLhyphen"/>ouſneſs and unrighteouſneſs, in the Lords fiery furnace is conſumed (and conſuming) and the righteouſneſs of the Lord is our covering, which can ſtand in the everlaſting burnings, and in it many of us can witneſs true peace, reſt and ſweet comfort, which is ſatisfactory to our Souls, not<g ref="char:EOLhyphen"/>withſtanding thy lyes and falſe accuſations, which cannot touch us to hurt us, glory to our God for ever; but they will one day come heavy upon thee and be thy burthen.</p>
+            <p>L.C. Blaſphemouſly ſayes, <hi>This I know God could die, &amp;c.</hi> p. 58.</p>
+            <p>
+               <hi>Anſw.</hi> This is horrible blaſphemy, to ſay that the ever<g ref="char:EOLhyphen"/>living God could die, who is eternal life, <note place="margin">
+                  <hi>Gen.</hi> 21.33</note> remains the ſame in ſubſtance, nature, life and being to all eternity, who was before death was, before any thing had a form, <note place="margin">
+                  <hi>Deut.</hi> 33.27.</note> gives every thing its form, life to every thing that liveth, and is the Spirit and life of all fleſh, never ſlumbers nor ſleeps, im<g ref="char:EOLhyphen"/>mortal, eternal, unchangeable; if he dyes, he changes, and lives not ever; Thou ſottiſh man, how doth thy ſenſual wiſdom blind and deceive thee, can the unchangeable God dye, who can change all things in a moment, <note place="margin">
+                  <hi>Mal.</hi> 3.6.</note> in the twink<g ref="char:EOLhyphen"/>ling of an eye, which is changeable? But in this as well as be<g ref="char:EOLhyphen"/>fore he hath largely manifeſted his ignorance concerning the immortal unchangeable God, <note place="margin">
+                  <hi>Jam.</hi> 1.17.</note> in whom there is no va<g ref="char:EOLhyphen"/>riableneſs nor ſhadow of turning; but the death and ſuf<g ref="char:EOLhyphen"/>fering of Chriſt in the fleſh we believe, own and bear witneſs unto, according to the Scripture of Truth?</p>
+            <p>And likewiſe at <hi>Richard Whitpans</hi> houſe in <hi>Eaſt-Cheap</hi> in <hi>London,</hi> in a diſcourſe with ſome of us, this enſuing confu<g ref="char:EOLhyphen"/>ſion proceeded from the mouth of this lying prophet (and his companion) who ſtiles himſelf the alone true and faith<g ref="char:EOLhyphen"/>ful meſſenger of Chriſt; but the underſtanding Reader may eaſily diſcern whoſe meſſenger he is, by his Meſſage, unto which I ſhall refer thee, which is as followeth; taken from their own mouthes, as it was uttered by them at the ſame time.</p>
+            <list>
+               <item>1. L.C. Said <hi>he would prove God to be a man, fleſh and bones as we are.</hi>
+               </item>
+               <pb n="16" facs="tcp:109061:12"/>
+               <item> 2. <hi>Lodowick, Mugleton his</hi> companion, <hi>that he had more knowledge in the Scriptures, then they that gave them forth.</hi>
+               </item>
+               <item>3. L.C. Said <hi>he had nothing of God in him.</hi>
+               </item>
+               <item>4. L.C. Said <hi>he would prove nothing, and before ſaid, he would prove what their God was.</hi>
+               </item>
+               <item>5. L.C. Said, <hi>The Devil was the Author of this light in the world,</hi> (and Chriſt ſaith I am the light of the world, &amp;c)</item>
+               <item>6. He ſaid <hi>he would never eat nor drink with</hi> George Fox <hi>Ju. for he was damned to all Eternity, but ſhortly after ſaid he would drink with him to morrow.</hi>
+               </item>
+               <item>7. He alſo ſaid <hi>he was the judge of the Scriptures, and all muſt believe the meanings he gives unto them, yet would ſhew no reaſon for it.</hi>
+               </item>
+               <item>8. L.C. Likewiſe ſaid <hi>he had damned the Lord Mayor ſeven or eight years ago and</hi> 1000 <hi>more within this eight years, and that he had juſtified forty or fifty.</hi>
+               </item>
+               <item>9. <hi>He pronounced damnation to</hi> George Fox <hi>Ju. and to</hi> John Harwood, <hi>and ſaid ſeveral times he would ſpeak no more to them, yet after did, and ſaid alſo he would anſwer no queſtion, but after did.</hi>
+               </item>
+               <item>10. He ſaid <hi>his God was in heaven above the Stars and no where elſe a man or perſon.</hi>
+               </item>
+               <item>11. He ſaid <hi>the words in the Scripture, in the 4. chap. of</hi> John <hi>doth not prove God to be a Spirit, where Chriſt ſaid God is a ſpirit, yet be pretended to own the Scriptures.</hi>
+               </item>
+               <item>12. One of them ſaid <hi>that a ſpirit hath fleſh blood and bones contrary to Chriſts words.</hi>
+               </item>
+            </list>
+            <pb n="17" facs="tcp:109061:12" rendition="simple:additions"/>
+            <p> WE whoſe names are here ſubſcribed were pre<g ref="char:EOLhyphen"/>ſent in the Chamber when theſe laſt twelve Particular paſſages were ſpoken by <hi>Lawrance Claxton</hi> and <hi>Lodowick Mugleton,</hi> and much more of the like nature, not worth the mentioning, and this is pub<g ref="char:EOLhyphen"/>liſhed for no other end but the manifeſting of de<g ref="char:EOLhyphen"/>ceit and deceivers, and the clearing of the innocent truth and the witneſſes of it,
+<list>
+                  <item>Richard Whitpain.</item>
+                  <item>Alice Whitpain.</item>
+                  <item>William Sympſon.</item>
+                  <item>George Fox Jun.</item>
+                  <item>John Harwood.</item>
+               </list>
+            </p>
+         </div>
+         <trailer>THE END</trailer>
+      </body>
+   </text>
+</TEI>
